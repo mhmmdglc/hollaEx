@@ -1,5 +1,3 @@
-'use client';
-
 import { Box, Code, Flex, Stack, Text } from '@mantine/core';
 
 export function OrderBookInfo() {
